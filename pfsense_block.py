@@ -4,7 +4,7 @@ import json
 import logging
 import sys
 
-# Disables the errors for the self singed certfications (verify-False) to keep the output clean
+# Disables the errors for the self signed certfications (verify-False) to keep the output clean
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 

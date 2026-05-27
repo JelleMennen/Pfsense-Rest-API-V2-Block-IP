@@ -2,7 +2,7 @@
 
 A Python script that automates firewall rule creation on pfSense using the REST API V2. Designed as a response action module for SIEM and IDS pipelines.
 
-📄 **Full writeup:** [Automating IP Blocking in pfSense with the REST API V2](https://medium.com/@jellemennen) *(Medium)*
+**Full writeup:** [Automating IP Blocking in pfSense with the REST API V2] (https://medium.com/@560827/automating-ip-blocking-in-pfsense-with-the-rest-api-v2-5a2aafde7680) *(Medium)*
 
 ---
 
